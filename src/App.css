@@ -14,8 +14,8 @@
 }
 
 .ce-active-chat-card {
-  background-color: #87CEFA !important;
-  border: 4px solid#87CEFA !important;
+  background-color: #89CFF0  !important;
+  border: 4px solid #89CFF0 !important;
   border-radius: 0px !important;
 }
 
@@ -29,7 +29,7 @@
 
 .ce-text-input {
   border-radius: 6px !important;
-  border: 1px solid #87CEFA !important;
+  border: 1px solid #89CFF0 !important;
 }
 
 .ce-primary-button {
