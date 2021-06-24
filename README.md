@@ -5,7 +5,7 @@ A real-time chat application built with React JS and [Chat Engine](https://chate
 
 ## Live Demo
 
-The application is hosted on netlify and can be accessed at the following web address: [https://adoring-chandrasekhar-1b2f83.netlify.app/](https://adoring-chandrasekhar-1b2f83.netlify.app/)
+The application is hosted on netlify and can be accessed at the following web address: [https://friendly-brown-95b5f0.netlify.app/](https://friendly-brown-95b5f0.netlify.app/)
 
 ## Screenshots
 ##### Login 
